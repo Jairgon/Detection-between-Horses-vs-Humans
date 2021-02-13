@@ -1,2 +1,3 @@
 # Detection-between-Horses-vs-Humans
-This project recognizes whether an image is a person or a horse. 
+this project recognizes if an image is a person or a horse using imported weights from the inceptionV3 model.
+
